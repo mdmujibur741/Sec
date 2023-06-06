@@ -1,0 +1,3 @@
+[27-Mar-2023 11:50:56 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.16. in /home/lifegmgc/sorokkha.lifegmg.com/vendor/composer/platform_check.php on line 24
+[27-Mar-2023 11:51:03 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.16. in /home/lifegmgc/sorokkha.lifegmg.com/vendor/composer/platform_check.php on line 24
+[27-Mar-2023 12:09:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 278528 bytes) in /home/lifegmgc/sorokkha.lifegmg.com/vendor/composer/ClassLoader.php on line 578
